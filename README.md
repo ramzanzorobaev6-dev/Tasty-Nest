@@ -1,12 +1,12 @@
-#Tasty Nest Restaurant landing
+# Tasty Nest Restaurant landing
 
 Адаптивный лендинг для ресторана с формой бронирования, меню, секцией новостей.
 
-##Технологии
+## Технологии
 
 HTML, CSS (Flexbox, Grid, медиа-запросы)
 БЭМ-нейминг
 GitHub Pages
 
-##Ссылка
+## Ссылка
 https://ramzanzorobaev6-dev.github.io/Tasty-Nest/
